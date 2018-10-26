@@ -6,6 +6,6 @@
 ### 1. AR/VR
 ### 2. Machine Learning
 ### 3. Artificial Intelligence 
-### 4. IoT
+
 
 
